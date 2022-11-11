@@ -1,4 +1,4 @@
-%Pooya Iranmanesh
+%Pouya Iranmanesh
 
  clc
  clear all
